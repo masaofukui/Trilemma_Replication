@@ -28,8 +28,8 @@ The code should be run in the following orders:
  * [./Empirics/Stata_Code/8_Business_cycle_moment.do](./Empirics/Stata_Code/8_Business_cycle_moment.do)
    This will produce Table 4 in the paper. 
 ### Required packages
-For Stata, it requires "reghdfe", "texsave", and "ivreghdfe".
-For R, it requires "foreign", "sandwich","ggplot2", "boot", "zoo", 
+* For Stata, it requires "reghdfe", "texsave", and "ivreghdfe".
+* For R, it requires "foreign", "sandwich","ggplot2", "boot", "zoo", 
                      "quantreg", "dummies", "stargazer", "lmtest", "expm","coefplot",
                      "OpenMx","Matrix","foreign","MASS","reshape2","AER",
                      "plyr","systemfit","ivpack","quantmod","xtable","boot","mFilter",
