@@ -37,3 +37,15 @@ The code should be run in the following orders:
                      "WDI","conflicted","data.table","readxl","stringr","countrycode","modeest"
 ### Computation Time
 Computation time is approximately 1-2 hours using a MacBook Pro 2021 with an Apple M1 Max chip and 64GB of memory. 
+
+
+## Theory
+
+### Codes
+* [./Theory/Julia/Toplevel.jl](./Theory/Julia/Toplevel.jl)
+  This will produce Figure 11 and 12 in the paper.
+### Required packages
+  "Debugger", "SparseArrays", "Plots", "DelimitedFiles", "DataFrames", "LinearAlgebra", "JLD2", "Optim", "NLsolve", "Statistics", "Printf", "LaTeXStrings", "Plots.PlotMeasures", "ForwardDiff", "CSV", "StatFiles", "Query",   "DataFramesMeta", "Parameters", "NLsolve", "DiscreteMarkovChains", "Infiltrator", "BenchmarkTools", "Polynomials", "NaNStatistics", "Latexify"
+### Computation Time
+ This should run within a few seconds.
+
