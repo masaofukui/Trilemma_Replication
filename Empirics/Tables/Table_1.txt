@@ -1,0 +1,53 @@
+Afghanistan & 15 & 0 && Ethiopia & 23 & 0  && Nicaragua & 33 & 2 \\
+Albania & 0 & 21 && Fiji & 0 & 47  && Niger & 0 & 47 \\
+Algeria & 8 & 14 && Gabon & 0 & 47  && Nigeria & 10 & 3 \\
+Angola & 7 & 0 && Gambia, The & 16 & 13  && North Macedonia & 0 & 28 \\
+Antigua and Barbuda & 42 & 0 && Georgia & 16 & 19  && Oman & 47 & 0 \\
+Argentina & 20 & 0 && Ghana & 8 & 4  && Pakistan & 35 & 0 \\
+Armenia & 22 & 2 && Grenada & 42 & 0  && Palau & 20 & 0 \\
+Aruba & 32 & 0 && Guatemala & 39 & 0  && Panama & 47 & 0 \\
+Azerbaijan & 17 & 3 && Guinea & 26 & 0  && Paraguay & 7 & 0 \\
+Bahamas, The & 47 & 0 && Guinea-Bissau & 0 & 43  && Peru & 12 & 0 \\
+Bahrain & 40 & 0 && Guyana & 36 & 3  && Philippines & 24 & 0 \\
+Bangladesh & 35 & 10 && Haiti & 30 & 0  && Poland & 0 & 25 \\
+Barbados & 43 & 1 && Honduras & 34 & 0  && Qatar & 20 & 0 \\
+Belarus & 7 & 2 && Hungary & 0 & 29  && Romania & 0 & 19 \\
+Belize & 40 & 5 && Iceland & 0 & 25  && Russian Federation & 2 & 13 \\
+Benin & 0 & 47 && India & 28 & 6  && Rwanda & 41 & 1 \\
+Bermuda & 47 & 0 && Indonesia & 27 & 0  && Samoa & 19 & 17 \\
+Bhutan & 0 & 40 && Iran, Islamic Rep & 14 & 0  && San Marino & 0 & 23 \\
+Bolivia & 30 & 0 && Iraq & 20 & 0  && Sao Tome and Principe & 8 & 10 \\
+Bosnia and Herzegovina & 0 & 25 && Israel & 0 & 13  && Saudi Arabia & 47 & 0 \\
+Botswana & 1 & 42 && Jamaica & 37 & 0  && Senegal & 0 & 47 \\
+Brazil & 2 & 6 && Jordan & 25 & 12  && Serbia & 0 & 21 \\
+Brunei Darussalam & 0 & 46 && Kazakhstan & 18 & 1  && Seychelles & 36 & 3 \\
+Bulgaria & 0 & 23 && Kenya & 25 & 14  && Sierra Leone & 16 & 0 \\
+Burkina Faso & 0 & 47 && Kiribati & 0 & 47  && Slovak Republic & 0 & 28 \\
+Burundi & 12 & 0 && Kuwait & 28 & 0  && Slovenia & 0 & 25 \\
+Cabo Verde & 0 & 40 && Kyrgyz Republic & 18 & 5  && Solomon Islands & 40 & 0 \\
+Cambodia & 23 & 0 && Lao PDR & 23 & 0  && Somalia & 0 & 7 \\
+Cameroon & 0 & 47 && Latvia & 0 & 18  && South Africa & 0 & 20 \\
+Central African Republic & 0 & 47 && Lebanon & 26 & 0  && Sri Lanka & 39 & 3 \\
+Chad & 0 & 47 && Lesotho & 0 & 47  && St Kitts and Nevis & 42 & 0 \\
+Chile & 2 & 0 && Liberia & 12 & 5  && St Lucia & 42 & 0 \\
+China & 27 & 1 && Libya & 12 & 3  && St Vincent and the Grenadines & 42 & 3 \\
+Colombia & 8 & 0 && Lithuania & 6 & 16  && Sudan & 15 & 0 \\
+Comoros & 0 & 40 && Luxembourg & 0 & 47  && Suriname & 14 & 0 \\
+Congo, Dem Rep & 8 & 0 && Macao SAR, China & 38 & 0  && Tajikistan & 15 & 7 \\
+Congo, Rep & 0 & 47 && Madagascar & 0 & 40  && Tanzania & 24 & 0 \\
+Costa Rica & 32 & 0 && Malawi & 7 & 21  && Thailand & 25 & 0 \\
+Cote d'Ivoire & 0 & 47 && Malaysia & 24 & 6  && Togo & 0 & 47 \\
+Croatia & 0 & 25 && Maldives & 25 & 0  && Tonga & 0 & 39 \\
+Curacao & 20 & 0 && Mali & 0 & 47  && Trinidad and Tobago & 42 & 3 \\
+Cyprus & 0 & 45 && Malta & 0 & 47  && Tunisia & 0 & 47 \\
+Czech Republic & 0 & 29 && Marshall Islands & 39 & 0  && Turkey & 0 & 10 \\
+Djibouti & 7 & 0 && Mauritania & 33 & 1  && Turkmenistan & 15 & 6 \\
+Dominica & 42 & 0 && Mauritius & 15 & 12  && Uganda & 3 & 1 \\
+Dominican Republic & 32 & 0 && Moldova & 14 & 0  && Ukraine & 12 & 8 \\
+Ecuador & 27 & 0 && Mongolia & 17 & 12  && United Arab Emirates & 45 & 0 \\
+Egypt, Arab Rep & 26 & 0 && Morocco & 0 & 47  && Uruguay & 6 & 0 \\
+El Salvador & 38 & 0 && Mozambique & 11 & 0  && Uzbekistan & 10 & 6 \\
+Equatorial Guinea & 0 & 40 && Myanmar & 13 & 1  && Vanuatu & 0 & 41 \\
+Estonia & 0 & 25 && Namibia & 0 & 40  && Vietnam & 26 & 0 \\
+Eswatini & 0 & 47 && Nepal & 8 & 29  && Yemen, Rep & 12 & 0 \\
+\hline
