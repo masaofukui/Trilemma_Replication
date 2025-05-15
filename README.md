@@ -28,6 +28,12 @@ The code should be run in the following orders:
  * [./Empirics/Stata_Code/8_Business_cycle_moment.do](./Empirics/Stata_Code/8_Business_cycle_moment.do)
    This will produce Table 4 in the paper. 
 ### Required packages
-reghdfe, texsave, ivreghdfe
+For Stata, it requires "reghdfe", "texsave", and "ivreghdfe".
+For R, it requires "foreign", "sandwich","ggplot2", "boot", "zoo", 
+                     "quantreg", "dummies", "stargazer", "lmtest", "expm","coefplot",
+                     "OpenMx","Matrix","foreign","MASS","reshape2","AER",
+                     "plyr","systemfit","ivpack","quantmod","xtable","boot","mFilter",
+                     "dynlm","vars","nleqslv","vars","dplyr","forecast","fUnitRoots","tidyr","plm",
+                     "WDI","conflicted","data.table","readxl","stringr","countrycode","modeest"
 ### Computation Time
 Computation time is approximately 1-2 hours using a MacBook Pro 2021 with an Apple M1 Max chip and 64GB of memory. 
