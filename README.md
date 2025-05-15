@@ -20,7 +20,7 @@ The code should be run in the following orders:
  * [./Empirics/Stata_Code/4_Descriptive_Figure.do](./Empirics/Stata_Code/4_Descriptive_Figure.do)
    This will produce Figure 1, A25, A3, A4, and Table 2 and A1 in the paper.
  * [./Empirics/Stata_Code/5_Sensitivity_Regressions.do](./Empirics/Stata_Code/5_Sensitivity_Regressions.do)
-   This will produce Figure 1, A25, A3, A4, and Table 2 and A1 in the paper.
+   This will produce Figure 2 and A1.
  * [./Empirics/Stata_Code/6_Main_Regressions.do](./Empirics/Stata_Code/6_Main_Regressions.do)
    This will produce Figure 3-8, A5-A22, and A23-A24, and Table A4 in the paper.
  * [./Empirics/Stata_Code/7_Plaza_accord.do](./Empirics/Stata_Code/7_Plaza_accord.do)
