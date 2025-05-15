@@ -4,6 +4,6 @@
   * Empirics: Replication files for all the empirical analysis
   * Theory: Replication files for the theoretical analysis in the main text
 
-# Empircis
+## Empircis
 * Required package
 reghdfe, texsave, ivreghdfe, renfiles
