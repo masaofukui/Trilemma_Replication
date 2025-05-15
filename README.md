@@ -1,4 +1,4 @@
-# Replication Files for "The Macroeconomic Consequences of Exchange Rate Depreciations" by Fukui, Nakamura, and Steinsson (2025, QJE forthcoming)
+# Replication Files for "The Macroeconomic Consequences of Exchange Rate Depreciations"
 
 * Required package
 reghdfe, texsave, ivreghdfe, renfiles
