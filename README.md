@@ -29,6 +29,10 @@ For Stata do files, please change the first line of the code so that the current
    This will produce Figure 9 in the paper.
  * [./Empirics/Stata_Code/8_Business_cycle_moment.do](./Empirics/Stata_Code/8_Business_cycle_moment.do)
    This will produce Table 4 in the paper. 
+ * [./Empirics/Stata_Code/9_Write_robustness_table.do](./Empirics/Stata_Code/9_Write_robustness_table.do)
+   This will produce Table 3 in the paper. 
+
+
 ### Required packages
 * For Stata, it requires "reghdfe", "texsave", "ivreghdfe".
 * For R, it requires "foreign", "sandwich","ggplot2", "boot", "zoo", 
