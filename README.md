@@ -11,7 +11,7 @@ Data is too large to be stored on GitHub. The data can be downloaded from [here]
 The code should be run in the following orders:
  * [./Empirics/R_Code/0_Clearning_R.R](./Empirics/R_Code/0_Cleaning_R.R)
    This is the first half of the data cleaning procedure.
- * [./Empirics/Stata_Code/1_Ceaning_Stata.do](./Empirics/Stata_Code/1_Ceaning_Stata.do)
+ * [./Empirics/Stata_Code/1_Cleaning_Stata.do](./Empirics/Stata_Code/1_Cleaning_Stata.do)
    This is the second half of the data cleaning procedure.
  * [./Empirics/Stata_Code/2_List_of_countries.do](./Empirics/Stata_Code/2_List_of_countries.do)
    This will produce Table 1 in the paper.
