@@ -9,6 +9,7 @@ This replication package is divided into two parts:
 Data is too large to be stored on GitHub. The data can be downloaded from [here](https://www.dropbox.com/scl/fi/k8487v6oaaeurqtnj24om/Trilemma_Replication_Data_Files.zip?rlkey=mssvlv7xu2zph92mvb9htes7f&dl=1) (approximately 3.3GB zip file and 30GB after unzipping). Place both "Original_Data" and "Working_Data" folders under "Empirics". 
 ### Codes 
 The code should be run in the following order, although each code should run independently, given that we provide an intermediate dataset. 
+
 For Stata do files, please change the first line of the code so that the current directory is set to the directory of "Empirics" folder. 
  * [./Empirics/R_Code/0_Clearning_R.R](./Empirics/R_Code/0_Cleaning_R.R)
    This is the first half of the data cleaning procedure.
