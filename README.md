@@ -12,34 +12,24 @@ The code should be run in the following order, although each code should run ind
 
 For Stata do files, please change the first line of the code so that the current directory is set to the directory of "Empirics" folder. 
  * [./Empirics/R_Code/0_Clearning_R.R](./Empirics/R_Code/0_Cleaning_R.R)
- 
    This is the first half of the data cleaning procedure.
  * [./Empirics/Stata_Code/1_Cleaning_Stata.do](./Empirics/Stata_Code/1_Cleaning_Stata.do)
-
    This is the second half of the data cleaning procedure.
  * [./Empirics/Stata_Code/2_List_of_countries.do](./Empirics/Stata_Code/2_List_of_countries.do)
-
    This will produce Table 1 in the paper.
  * [./Empirics/Stata_Code/3_Variable_description.do](./Empirics/Stata_Code/3_Variable_description.do)
-
    This will produce Table A3 in the paper.
  * [./Empirics/Stata_Code/4_Descriptive_Figure.do](./Empirics/Stata_Code/4_Descriptive_Figure.do)
-
    This will produce Figure 1, A25, A3, A4, and Table 2 and A1 in the paper.
  * [./Empirics/Stata_Code/5_Sensitivity_Regressions.do](./Empirics/Stata_Code/5_Sensitivity_Regressions.do)
-
    This will produce Figure 2 and A1.
  * [./Empirics/Stata_Code/6_Main_Regressions.do](./Empirics/Stata_Code/6_Main_Regressions.do)
-
    This will produce Figure 3-8, A5-A22, and A23-A24, and Table A4 in the paper.
  * [./Empirics/Stata_Code/7_Plaza_accord.do](./Empirics/Stata_Code/7_Plaza_accord.do)
-
    This will produce Figure 9 in the paper.
  * [./Empirics/Stata_Code/8_Business_cycle_moment.do](./Empirics/Stata_Code/8_Business_cycle_moment.do)
-
    This will produce Table 4 in the paper. 
  * [./Empirics/Stata_Code/9_Write_robustness_table.do](./Empirics/Stata_Code/9_Write_robustness_table.do)
- 
    This will produce Table 3 in the paper. 
 
 
