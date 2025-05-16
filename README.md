@@ -12,7 +12,6 @@ The code should be run in the following order, although each code should run ind
 
 For Stata do files, please change the first line of the code so that the current directory is set to the directory of "Empirics" folder. 
  * [./Empirics/R_Code/0_Clearning_R.R](./Empirics/R_Code/0_Cleaning_R.R)
- 
    This is the first half of the data cleaning procedure.
  * [./Empirics/Stata_Code/1_Cleaning_Stata.do](./Empirics/Stata_Code/1_Cleaning_Stata.do)
 
