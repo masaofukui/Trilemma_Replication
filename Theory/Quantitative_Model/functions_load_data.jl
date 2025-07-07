@@ -20,3 +20,13 @@ function data_load()
     end
     return data_irf
 end
+
+function compute_data_minus_irf(data,model)
+    Tcut = 10;
+    std = ( data[!,:up95] -  data[!,:bh] )./1.96
+    std = 1;
+    #std = mean(std)
+    diff_data_model =  ( data[!,:bh] - model[1:10] ) ./ std
+    sumdiff = sum( diff_data_model[1:Tcut].^2);
+    return sumdiff
+end
