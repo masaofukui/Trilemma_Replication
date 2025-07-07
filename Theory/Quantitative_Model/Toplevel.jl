@@ -740,7 +740,7 @@ end
 
 
 #############################################
-# Robustness Price Stickiness
+# Figure G1
 #############################################
 
 deltap_alt = deltap/2
