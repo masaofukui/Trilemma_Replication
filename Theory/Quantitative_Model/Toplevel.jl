@@ -14,11 +14,17 @@ using Plots.PlotMeasures
 file_overleaf = "./figures"
 tables_overleaf = "./tables"
 stored_results = "Empirics/Stored_Result"
-include("./Sequence_Space_Solver_HANK.jl")
-include("load_data.jl")
-include("./plot_fun.jl")
-include("./solve_ss.jl")
-include("./cov_fun.jl")
+include("./functions_SSJ_solver.jl")
+include("./functions_load_data.jl")
+include("./functions_plot.jl")
+include("./functions_solve_ss.jl")
+include("./functions_cov_fun.jl")
+include("./functions_construct_IRF.jl")
+include("./functions_model_equations.jl")
+include("./functions_set_other_parameters.jl")
+include("./functions_Shock_constructor.jl")
+include("./functions_compute_steady_state.jl")
+
 
 estimate_param = 0;
 explosive_off= 0;
@@ -86,7 +92,7 @@ Auclert_inattention = 0;
 delay = 0.0;
 
 deltaK = 0.04;
-scaling = "matchIRF"
+#scaling = "matchIRF"
 scaling = "matchRER"
 
 T = 100;
@@ -170,15 +176,9 @@ list_model = ["relative_NER","relative_RER","relative_Y", "relative_C", "relativ
 list_data = ["lnominal","lreal", "RGDP_WB", "consumption_WB",  "investment_WB", 
 "inflation_WB","bloomberg_rate_all","exports_WB","imports_WB","lTerms_of_trade_WB"]
 
-include("Model_equations_v4_HANK_alt2.jl")
 nvar = Int(length(varargin)/2);
 allinputs = replace(allinputs_string,"\n" => "")
 allinputs = split(allinputs,',');
-include("construct_IRF.jl")
-
-include("set_other_parameters.jl")
-include("Shock_constructor.jl")
-include("compute_steady_state.jl")
 
 
 auxillary_inputs = (
