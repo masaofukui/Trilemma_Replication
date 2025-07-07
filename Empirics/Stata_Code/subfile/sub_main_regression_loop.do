@@ -87,6 +87,10 @@ forval fig_list = $min_fig_list/$max_fig_list {
 		global lhs_list curracc_gdp_ewn portfolio_gdp net_fdi_gdp
 		global nrow = 2
 	}
+	else if $fig_list == 21{
+		global lhs_list inflation_WB
+		global nrow = 1
+	}
 
 
 

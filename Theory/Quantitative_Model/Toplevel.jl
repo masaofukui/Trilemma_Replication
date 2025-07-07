@@ -11,9 +11,9 @@ using Statistics
 using Printf
 using LaTeXStrings
 using Plots.PlotMeasures
-file_overleaf = "/Users/fukui/Dropbox (Personal)/Apps/Overleaf/Trilemma -- Paper/Figures"
-tables_overleaf = "/Users/fukui/Dropbox (Personal)/Apps/Overleaf/Trilemma -- Paper/Tables"
-stored_results = "/Users/fukui/Dropbox (Personal)/Trilemma/Result"
+file_overleaf = "./figures"
+tables_overleaf = "./tables"
+stored_results = "Empirics/Stored_Result"
 include("./Sequence_Space_Solver_HANK.jl")
 include("load_data.jl")
 include("./plot_fun.jl")
@@ -137,38 +137,7 @@ rhom = 0.81^4;
 #rhom = 0.0;
 
 # shock path
-Shock_Var = "F MP shock";
-Shock_Var = "F Demand shock";
-#Shock_Var = "P Demand shock";
-#Shock_Var = "U UIP shock";
-#Shock_Var = "Common TFP shock";
-#Shock_Var = "U TFP shock";
-
-#Shock_Var = "U Demand shock";
-#Shock_Var = "Common Demand shock";
-#Shock_Var = "U TFP shock";
-#Shock_Var = "P Demand shock";
-Shock_Var = "U MP shock";
-Shock_Var = "U TFP shock";
-#Shock_Var = "F Risk shock";
-Shock_Var = "F TFP shock";
-Shock_Var = "F TFP shock";
 Shock_Var = "U UIP shock";
-#Shock_Var = "F MP shock";
-#Shock_Var = "F Risk shock";
-
-#Shock_Var = "F Investment shock";
-#Shock_Var = "U MP shock";
-
-
-
-#Shock_Var = "Common TFP shock";
-#Shock_Var = "Common Demand shock";
-#Shock_Var = "U UIP shock";
-#Shock_Var = "F Demand shock";
-
-
-
 
 Tplot = 200;
 ms = 8;
