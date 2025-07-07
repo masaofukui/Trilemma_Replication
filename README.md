@@ -55,7 +55,7 @@ Computation time is approximately 1-2 hours using a MacBook Pro 2021 with an App
   This will produce Figures E1-E3, Table E1-E2, Figure F1, Tables F2-F3, Figures G2-G5, Table G2, and Figure H2.
 
 ### Required packages
-  "Debugger", "SparseArrays", "Plots", "DelimitedFiles", "DataFrames", "LinearAlgebra", "JLD2", "Optim", "NLsolve", "Statistics", "Printf", "LaTeXStrings", "Plots.PlotMeasures", "ForwardDiff", "CSV", "StatFiles", "Query",   "DataFramesMeta", "Parameters", "NLsolve", "DiscreteMarkovChains", "Infiltrator", "BenchmarkTools", "Polynomials", "NaNStatistics", "Latexify"
+  "Debugger", "SparseArrays", "Plots", "DelimitedFiles", "DataFrames", "LinearAlgebra", "JLD2", "Optim", "NLsolve", "Statistics", "Printf", "LaTeXStrings", "Plots.PlotMeasures", "ForwardDiff", "CSV", "StatFiles", "Query",   "DataFramesMeta", "Parameters", "NLsolve", "DiscreteMarkovChains", "Infiltrator", "BenchmarkTools", "Polynomials", "NaNStatistics", "Latexify", "JLD"
 ### Computation Time
- This should run within a few seconds.
+ Each file should run within a few seconds.
 
