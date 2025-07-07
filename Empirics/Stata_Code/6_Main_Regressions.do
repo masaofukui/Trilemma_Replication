@@ -34,7 +34,7 @@ global by_period = 0
 global report_r2 = 0
 global ncol = 2
 
-global min_fig_list = 21
+global min_fig_list = 1
 global max_fig_list = 21
 do "./Stata_Code/subfile/sub_main_regression_loop.do"
 
