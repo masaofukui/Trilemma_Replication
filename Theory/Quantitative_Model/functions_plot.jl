@@ -104,7 +104,6 @@ function plot_result_fun(d,
         
         display(plt)
         if fig_save == 1
-            fig_name_save = string("../../../writing/Figures/Model/fig_all_",fig_name,".pdf")
             fig_name_save = string(file_overleaf,"/fig_all_",fig_name,".pdf")
             savefig(fig_name_save)
         end
@@ -467,7 +466,6 @@ function plot_result_fun3(d,
 
     display(plt)
     if fig_save == 1 && s_share_plot == 0
-        #fig_name_save = string("../../../writing/Figures/Model/Pricing_",fig_name,".pdf")
         fig_name_save = string(file_overleaf,"/Pricing_",fig_name,".pdf")
         savefig(fig_name_save)
     else fig_save == 1 & s_share_plot == 1
@@ -601,12 +599,6 @@ function plot_model_fun(d;country_list = ["U","P","F"],
     end
     display(plt)
 
-    #if fig_save == 1
-   #     #fig_name_save = string("../../../writing/Figures/Model/relative_irf_",paramet_spec,"_Pricing_",pricing,".pdf")
-    #    fig_name_save = string("../../../writing/Figures/Model/",fig_name,".pdf")
-
-   #     savefig(fig_name_save)
-    #end
 
     if subset == 1
         plt = plot(plt_list["RER"],plt_list["GDP"],

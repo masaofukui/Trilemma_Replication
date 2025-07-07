@@ -1,4 +1,4 @@
-data_mat = readdlm(tables_overleaf*"/Business_cycle_moments.tex",'&')
+data_mat = readdlm("Empirics/Tables/Table_4.tex",'&')
 float_col = 4;
 gdp_std_data = data_mat[4,float_col];
 data_write = Dict{String,Any}()
