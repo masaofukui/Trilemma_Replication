@@ -244,6 +244,10 @@ if fig_save == 1
     table_name_old = string(tables_overleaf,"/NER_i_IRF.txt")
     table_name_new = string(tables_overleaf,"/Table_E1.txt")
     cp(table_name_old, table_name_new,force=true)
+
+    table_name_old = string(tables_overleaf,"/NER_i_IRF_with_risk.txt")
+    table_name_new = string(tables_overleaf,"/Table_G2.txt")
+    cp(table_name_old, table_name_new,force=true)
 end
 
 plot_result_fun(d_Inv,
@@ -601,6 +605,19 @@ if fig_save == 1
     fig_name_save = string(file_overleaf,"/Figure_H2.pdf")
     savefig(fig_name_save)
 end
+
+
+##########################################################################################
+# Table H1
+###########################################################################
+include("./Variance_decomposition.jl")
+
+if fig_save == 1
+    table_name_old = string(tables_overleaf,"/variance_decomposition.txt")
+    table_name_new = string(tables_overleaf,"/Table_H1.txt")
+    cp(table_name_old, table_name_new,force=true)
+end
+
 
 ##########################################################################################
 # Table F3

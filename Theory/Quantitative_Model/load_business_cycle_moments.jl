@@ -28,7 +28,7 @@ end
 
 
 
-data_mat_others = readdlm(tables_overleaf*"/Business_cycle_moments_others.tex",'&')
+data_mat_others = readdlm("Empirics/Tables/Business_cycle_moments_others.tex",'&')
 float_col = 4;
 data_write_others = Dict{String,Any}()
 data_write_others["std_dI"] = @sprintf("%.3f",data_mat_others[1,float_col]);
