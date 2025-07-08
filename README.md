@@ -33,6 +33,11 @@ For Stata do files, please change the first line of the code so that the current
  * [./Empirics/Stata_Code/9_Write_robustness_table.do](./Empirics/Stata_Code/9_Write_robustness_table.do)
    This will produce Table 3 in the paper. 
 
+### Softwares
+The code was last run using:
+* Stata 18.0
+* R 4.1.2
+
 
 ### Required packages
 * For Stata, it requires "reghdfe", "texsave", "ivreghdfe".
@@ -53,6 +58,10 @@ Computation time is approximately 1-2 hours using a MacBook Pro 2021 with an App
   This will produce Figure 11 and 12 in the paper. These figures are exported to [./Theory/Simple_Model/figures](./Theory/Simple_Model/figures).
 * [./Theory/Quantitative_Model/Toplevel.jl](./Theory/Quantitative_Model/Toplevel.jl) 
   This will produce Figures E1-E3, Table E1-E2, Figure F1, Tables F2-F3, Figures G2-G5, Table G2, and Figure H2. These figures and tables are exported to [./Theory/Quantitative_Model/figures](./Theory/Quantitative_Model/figures) and [./Theory/Quantitative_Model/tables](./Theory/Quantitative_Model/tables).
+
+### Softwares
+The code was last run using:
+* Julia 1.10
 
 ### Required packages
   "Debugger", "SparseArrays", "Plots", "DelimitedFiles", "DataFrames", "LinearAlgebra", "JLD2", "Optim", "NLsolve", "Statistics", "Printf", "LaTeXStrings", "Plots.PlotMeasures", "ForwardDiff", "CSV", "StatFiles", "Query",   "DataFramesMeta", "Parameters", "NLsolve", "DiscreteMarkovChains", "Infiltrator", "BenchmarkTools", "Polynomials", "NaNStatistics", "Latexify", "JLD"
