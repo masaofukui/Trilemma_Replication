@@ -54,7 +54,7 @@ Computation time is approximately 1-2 hours using a MacBook Pro 2021 with an App
 ## Theory
 
 ### Codes
-* [./Theory/Simple_Model/Toplevel.jl](./Theory/Julia/Toplevel.jl) 
+* [./Theory/Simple_Model/Toplevel.jl](./Theory/Simple_Model/Toplevel.jl) 
   This will produce Figure 11 and 12 in the paper. These figures are exported to [./Theory/Simple_Model/figures](./Theory/Simple_Model/figures).
 * [./Theory/Quantitative_Model/Toplevel.jl](./Theory/Quantitative_Model/Toplevel.jl) 
   This will produce Figures E1-E3, Table E1-E2, Figure F1, Tables F2-F3, Figures G2-G5, Table G2, and Figure H2. These figures and tables are exported to [./Theory/Quantitative_Model/figures](./Theory/Quantitative_Model/figures) and [./Theory/Quantitative_Model/tables](./Theory/Quantitative_Model/tables).
